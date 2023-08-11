@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cool Template</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 2rem;
+            background-color: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our Cool Website</h1>
+        <p>Your tagline or description goes here</p>
+    </header>
+    <div class="container">
+        <h2>About Us</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam interdum justo ut ligula maximus, nec posuere leo interdum.</p>
+        <h2>Services</h2>
+        <ul>
+            <li>Service 1</li>
+            <li>Service 2</li>
+            <li>Service 3</li>
+        </ul>
+    </div>
+    <footer>
+        <p>&copy; 2023 Your Cool Website. All rights reserved.</p>
+    </footer>
+</body>
+</html>
